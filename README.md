@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Portfólio Psiquiatra - Dr. João Silva</title>
+  <title>Portfólio Psiquiatra - Dra. Laura Laport Venâncio</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
     * {
@@ -184,7 +184,7 @@
     <section class="about" id="about">
       <h2>Sobre Mim</h2>
       <p>
-        Sou Dr. João Silva, psiquiatra com mais de 15 anos de experiência dedicado ao cuidado integral da saúde mental. Acredito que cada indivíduo é único e merece um tratamento humanizado, baseado em evidências científicas e empatia. Minha missão é ajudar meus pacientes a encontrarem equilíbrio emocional e qualidade de vida.
+        Sou Dra. Laura, psiquiatra, formada pela USP, dedicada ao cuidado integral da saúde mental. Acredito que cada indivíduo é único e merece um tratamento humanizado, baseado em evidências científicas e empatia. Minha missão é ajudar meus pacientes a encontrarem equilíbrio emocional e qualidade de vida.
       </p>
     </section>
 
