@@ -177,7 +177,7 @@
 </head>
 <body>
   <header>
-    <h1>Dr. João Silva</h1>
+    <h1>Dr. Laura Laport Venâncio</h1>
     <p>Psiquiatra | Saúde Mental e Bem-estar</p>
   </header>
   <main>
@@ -240,7 +240,7 @@
   </main>
 
   <footer>
-    &copy; 2024 Dr. João Silva - Todos os direitos reservados
+    &copy; 2024 Dr. Laura Laport - Todos os direitos reservados
   </footer>
 </body>
 </html>
